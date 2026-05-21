@@ -33,7 +33,3 @@ Saved models:
 ## How to Use
 
 Open any notebook in Jupyter Notebook or VS Code and run the cells in order. The datasets are already included in the repository, so no additional download is required.
-
-## Notes
-
-This repository appears to be an assignment-style collection of independent exercises rather than a single end-to-end application.
